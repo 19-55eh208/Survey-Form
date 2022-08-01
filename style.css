@@ -135,6 +135,12 @@ button{
     }
   }
 
+@media only screen and (max-width: 400px){
+    #description{
+   display: inline;
+    }
+  }
+
    @media only screen and (max-width: 320px) {
      .form-container{
        overflow: scroll;
